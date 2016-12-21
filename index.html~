@@ -1,12 +1,14 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8">
     <title>Rogue Planet</title>
-    <link href="/style.css" type="text/css" rel="stylesheet"/>
+    <link href="/home/spatzkc/Documents/rogue_planet_HTML/style.css" type="text/css" rel="stylesheet"/>
   </head>
   <body>
-  <h1>Rogue Planet</h1>
+
+  <img src="/home/spatzkc/Documents/rogue_planet_HTML/squareLogo.png" alt="Logo"> 
+ <h3>Enter</h3>
   
   
   

@@ -1,2 +1,27 @@
 h1 {
 color: red;}
+
+.logo {
+min-width: 40%;
+margin: auto;
+display: block;
+padding: 4.25em 0em 2em 0em;
+}
+
+#bannerLogo {
+min-width:  60%;
+}
+
+#enter {
+text-align: center;
+color: snow;
+padding-bottom: 2em;
+}
+
+.entrance {
+background-color: black;
+}
+
+.main_page {
+background-color: #2A165E;
+}

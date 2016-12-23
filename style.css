@@ -1,8 +1,16 @@
 h1 {
 color: red;}
 
+ul, a {
+list-style-type: none;
+margin: 0;
+padding: 0;
+color: snow;
+}
+
 p {
-font-size: 30px;
+font-size: 40px;
+font-family: 'Exo 2', sans-serif;
 color: snow;
 padding-left: 20%;
 width: 60%;

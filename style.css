@@ -1,11 +1,27 @@
 h1 {
 color: red;}
 
+/*Navigation menu*/
 ul, a {
 list-style-type: none;
 margin: 0;
 padding: 0;
 color: snow;
+background-color: #7F2A68;
+}
+
+li {
+float: left;
+}
+
+a {
+display: block;
+padding: 8px;
+}
+
+
+li a:hover {
+background-color: 
 }
 
 p {
@@ -27,6 +43,7 @@ padding: 4.25em 0em 2em 0em;
 #bannerLogo {
 min-width:  60%;
 opacity: 0.7;
+float: left;
 }
 
 #enter {

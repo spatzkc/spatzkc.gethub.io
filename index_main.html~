@@ -10,11 +10,11 @@
   <div class="main_page">
    <div class="navigation">
     <ul>
-    <li><a class="active" href="/home/spatzkc/Documents/rogue_planet_HTML/index_main.html">Home</a></li>
-    <li><a href="#">Members</a></li>
-    <li><a href="#">Join</a></li>
-    <li><a href="#">Sample Music</a></li>
-    <li><a href="#">Booking</a></li>
+      <li><a class="active" href="/home/spatzkc/Documents/rogue_planet_HTML/index_main.html">Home</a></li>
+      <li><a href="#">Members</a></li>
+      <li><a href="#">Join</a></li>
+      <li><a href="#">Sample Music</a></li>
+      <li><a href="#">Booking</a></li>
     </ul>
     </div>    
   <img class="logo" id="bannerLogo" src="/home/spatzkc/Documents/rogue_planet_HTML/bannerLogo.png" 

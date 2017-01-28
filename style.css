@@ -30,7 +30,12 @@ background-color: #7F2A68;
 }
 
 li a:hover {
-background-color: 
+background-color: #C943A3
+}
+
+.active {
+font-weight: bold;
+text-decoration: overline;
 }
 
 p {

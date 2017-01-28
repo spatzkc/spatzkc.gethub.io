@@ -10,8 +10,8 @@
   <div class="main_page">
    <div class="navigation">
     <ul>
-      <li><a class="active" href="/home/spatzkc/Documents/rogue_planet_HTML/index_main.html">Home</a></li>
-      <li><a href="#">Members</a></li>
+      <li><a href="/home/spatzkc/Documents/rogue_planet_HTML/index_main.html">Home</a></li>
+      <li><a class="active" href="#">Members</a></li>
       <li><a href="#">Join</a></li>
       <li><a href="#">Sample Music</a></li>
       <li><a href="#">Booking</a></li>

@@ -38,7 +38,7 @@ font-weight: bold;
 text-decoration: overline;
 }
 
-p {
+#band_description {
 font-size: 40px;
 font-family: 'Exo 2', sans-serif;
 color: snow;

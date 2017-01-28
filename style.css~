@@ -35,7 +35,6 @@ background-color: #C943A3
 
 .active {
 font-weight: bold;
-text-decoration: underline;
 text-decoration: overline;
 }
 
